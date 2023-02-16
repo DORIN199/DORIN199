@@ -1,4 +1,12 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/nIoUgc3KW2BF5rxVj2/giphy-downsized-large.gif" width="100"/>
+</div>
+<div id="badges">
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=blue&style=for-the-badge"/>
+</div>
+
+
+### Hello! I'm Dorin 👋
 
 <!--
 **DORIN199/DORIN199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
